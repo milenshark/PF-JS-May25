@@ -31,4 +31,4 @@ function bitcoinMining(goldMinedPerDay) {
 }
 
 
-bitcoinMining('[100, 200, 300]');
+bitcoinMining([50, 100]);
